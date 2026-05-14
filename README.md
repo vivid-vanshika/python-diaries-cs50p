@@ -13,7 +13,7 @@
 |---------|-------|--------|
 | **Lecture 0** | Functions, Variables | ✅ Done |
 | Lecture 1 | Conditionals | ✅ Done |
-| Lecture 2 | Loops | ⬜ |
+| Lecture 2 | Loops | ✅ Done  |
 | Lecture 3 | Exceptions | ⬜ |
 | Lecture 4 | Libraries | ⬜ |
 | Lecture 5 | Unit Tests | ⬜ |
